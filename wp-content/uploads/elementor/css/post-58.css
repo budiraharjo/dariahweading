@@ -12,7 +12,7 @@
    right: 0;
    bottom: 0;
    pointer-events: none;
-   background-image: url('https://kondangankuy.com/wp-content/uploads/2021/07/s1-pink.png'), url('https://kondangankuy.com/wp-content/uploads/2021/07/s2-pink.png'), url('https://kondangankuy.com/wp-content/uploads/2021/07/s3-pink.png');
+   background-image: url('wp-content/uploads/2021/07/s1-pink.png'), url('wp-content/uploads/2021/07/s2-pink.png'), url('wp-content/uploads/2021/07/s3-pink.png');
     animation: snow 25s linear infinite;
 }
 
@@ -39,7 +39,7 @@
    right: 0;
    bottom: 0;
    pointer-events: none;
-   background-image: url('https://kondangankuy.com/wp-content/uploads/2021/07/s1-putih.png'), url('https://library.elementor.com/resources/christmas-snow-effect/s2.png'), url('https://library.elementor.com/resources/christmas-snow-effect/s3.png');
+   background-image: url('wp-content/uploads/2021/07/s1-putih.png'), url('s2.png'), url('s3.png');
     animation: snow 30s linear infinite;
 }
 
@@ -64,7 +64,7 @@
    right: 0;
    bottom: 0;
    pointer-events: none;
-   background-image: url('https://kondangankuy.com/wp-content/uploads/2021/07/s1-pink-1.png'), url('https://kondangankuy.com/wp-content/uploads/2021/07/s2-pink-1.png'), url('https://kondangankuy.com/wp-content/uploads/2021/07/s3-pink-1.png');
+   background-image: url('wp-content/uploads/2021/07/s1-pink-1.png'), url('wp-content/uploads/2021/07/s2-pink-1.png'), url('wp-content/uploads/2021/07/s3-pink-1.png');
     animation: snow 30s linear infinite;
 }
 
@@ -89,7 +89,7 @@
    right: 0;
    bottom: 0;
    pointer-events: none;
-   background-image: url('https://kondangankuy.com/wp-content/uploads/2021/07/s1-cherry.png'), url('https://kondangankuy.com/wp-content/uploads/2021/07/s2-cherry.png'), url('https://kondangankuy.com/wp-content/uploads/2021/07/s3-cherry.png');
+   background-image: url('wp-content/uploads/2021/07/s1-cherry.png'), url('wp-content/uploads/2021/07/s2-cherry.png'), url('wp-content/uploads/2021/07/s3-cherry.png');
     animation: snow 15s linear infinite;
 }
 
@@ -114,7 +114,7 @@
    right: 0;
    bottom: 0;
    pointer-events: none;
-   background-image: url('https://kondangankuy.com/wp-content/uploads/2021/08/s1-green.png'), url('https://kondangankuy.com/wp-content/uploads/2021/08/s2-green.png'), url('https://kondangankuy.com/wp-content/uploads/2021/08/s3-green.png');
+   background-image: url('wp-content/uploads/2021/08/s1-green.png'), url('wp-content/uploads/2021/08/s2-green.png'), url('wp-content/uploads/2021/08/s3-green.png');
     animation: snow 25s linear infinite;
 }
 
@@ -139,7 +139,7 @@
    right: 0;
    bottom: 0;
    pointer-events: none;
-   background-image: url('https://kondangankuy.com/wp-content/uploads/2021/07/s1-blue2.png'), url('https://kondangankuy.com/wp-content/uploads/2021/07/s2-blue.png'), url('https://kondangankuy.com/wp-content/uploads/2021/07/s3-blue.png');
+   background-image: url('wp-content/uploads/2021/07/s1-blue2.png'), url('wp-content/uploads/2021/07/s2-blue.png'), url('wp-content/uploads/2021/07/s3-blue.png');
     animation: snow 30s linear infinite;
 }
 
@@ -164,7 +164,7 @@
    right: 0;
    bottom: 0;
    pointer-events: none;
-   background-image: url('https://kondangankuy.com/wp-content/uploads/2021/08/s1-sakura.png'), url('https://kondangankuy.com/wp-content/uploads/2021/08/s2-sakura.png'), url('https://kondangankuy.com/wp-content/uploads/2021/08/s3-sakura.png');
+   background-image: url('wp-content/uploads/2021/08/s1-sakura.png'), url('wp-content/uploads/2021/08/s2-sakura.png'), url('wp-content/uploads/2021/08/s3-sakura.png');
     animation: snow 10s linear infinite;
 }
 
@@ -183,7 +183,7 @@
    right: 0;
    bottom: 0;
    pointer-events: none;
-   background-image: url('https://kondangankuy.com/wp-content/uploads/2021/07/s1-orange.png'), url('https://kondangankuy.com/wp-content/uploads/2021/07/s2-orange.png'), url('https://kondangankuy.com/wp-content/uploads/2021/07/s3-orange.png');
+   background-image: url('wp-content/uploads/2021/07/s1-orange.png'), url('wp-content/uploads/2021/07/s2-orange.png'), url('wp-content/uploads/2021/07/s3-orange.png');
     animation: snow 25s linear infinite;
 }
 
@@ -202,6 +202,6 @@
    right: 0;
    bottom: 0;
    pointer-events: none;
-   background-image: url('https://kondangankuy.com/wp-content/uploads/2021/08/s1-daun2.png'), url('https://kondangankuy.com/wp-content/uploads/2021/08/s2-daun2.png'), url('https://kondangankuy.com/wp-content/uploads/2021/08/s3-daun.png');
+   background-image: url('wp-content/uploads/2021/08/s1-daun2.png'), url('wp-content/uploads/2021/08/s2-daun2.png'), url('wp-content/uploads/2021/08/s3-daun.png');
     animation: snow 30s linear infinite;
 }/* End custom CSS */
