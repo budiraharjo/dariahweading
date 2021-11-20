@@ -1,0 +1,548 @@
+Uri: https://kondangankuy.com/asmimuadzwedding/?to=Ust+Ainul+Ghozi+Lc
+File Name: C:\Downloaded Web Sites\kondangankuy.com\asmimuadzwedding\index.htm
+Content Type: text/html
+
+Uri: https://kondangankuy.com/wp-content/themes/astra/assets/fonts/astra.woff
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\themes\astra\assets\fonts\astra.woff
+Content Type: font/woff
+
+Uri: https://kondangankuy.com/wp-content/themes/astra/assets/fonts/astra.ttf
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\themes\astra\assets\fonts\astra.ttf
+Content Type: font/ttf
+
+Uri: https://kondangankuy.com/wp-content/themes/astra/assets/fonts/astra.svg
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\themes\astra\assets\fonts\astra.svg
+Content Type: image/svg+xml
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://kondangankuy.com/wp-content/plugins/wp-content-copy-protector/images/warning.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\wp-content-copy-protector\images\warning.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/feed/
+File Name: C:\Downloaded Web Sites\kondangankuy.com\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://kondangankuy.com/comments/feed/
+File Name: C:\Downloaded Web Sites\kondangankuy.com\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://kondangankuy.com/asmimuadzwedding/feed/
+File Name: C:\Downloaded Web Sites\kondangankuy.com\asmimuadzwedding\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://kondangankuy.com/wp-content/themes/astra/assets/css/minified/style.min.css?ver=3.5.0
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\themes\astra\assets\css\minified\style.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400%2C%2C500&display=fallback&ver=3.5.0
+File Name: C:\Downloaded Web Sites\kondangankuy.com\css.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-includes/css/dist/block-library/style.min.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-content/plugins/extensions-for-elementor-form/assets/style.css?ver=1.3
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\extensions-for-elementor-form\assets\style.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-content/plugins/piotnet-addons-for-elementor-pro/assets/css/minify/extension.min.css?ver=6.3.58
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\piotnet-addons-for-elementor-pro\assets\css\minify\extension.min.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-content/plugins/weddingpress/assets/css/wdp-centered-timeline.min.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\weddingpress\assets\css\wdp-centered-timeline.min.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-content/plugins/weddingpress/assets/css/wdp-horizontal-styles.min.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\weddingpress\assets\css\wdp-horizontal-styles.min.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-content/plugins/weddingpress/assets/css/wdp-fontello.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\weddingpress\assets\css\wdp-fontello.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-content/plugins/weddingpress/assets/css/exad-styles.min.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\weddingpress\assets\css\exad-styles.min.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.11.0
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.2.4
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.2.4
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\css\frontend-legacy.min.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.2.4
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-content/uploads/elementor/css/post-58.css?ver=1637355815
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\elementor\css\post-58.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-content/plugins/weddingpress/assets/css/wdp.css?ver=2.6.2
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\weddingpress\assets\css\wdp.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.2.2
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.2.4
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.2.4
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-content/uploads/elementor/css/post-172041.css?ver=1637364933
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\elementor\css\post-172041.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-content/uploads/elementor/css/post-30948.css?ver=1637355815
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\elementor\css\post-30948.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lato:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Baskervville:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Great+Vibes:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lora:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.6.4
+File Name: C:\Downloaded Web Sites\kondangankuy.com\css-1.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.1
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.1
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.1
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.1
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-json/
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://kondangankuy.com/wp-json/wp/v2/posts/172041
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-json\wp\v2\posts\172041.json
+Content Type: application/json
+
+Uri: https://kondangankuy.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\kondangankuy.com\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: https://kondangankuy.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://kondangankuy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkondangankuy.com%2Fasmimuadzwedding%2F
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://kondangankuy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkondangankuy.com%2Fasmimuadzwedding%2F&format=xml
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/1logo-terbaru-150x150.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\1logo-terbaru-150x150.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/1logo-terbaru-700x700.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\1logo-terbaru-700x700.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/08/foto-asmi-dan-muadz-2.jpg
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\08\foto-asmi-dan-muadz-2.jpg
+Content Type: image/jpeg
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/08/foto-asmi-dan-muadz-3.jpg
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\08\foto-asmi-dan-muadz-3.jpg
+Content Type: image/jpeg
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/08/foto-asmi-dan-muadz-4.jpg
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\08\foto-asmi-dan-muadz-4.jpg
+Content Type: image/jpeg
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/08/foto-asmi-dan-muadz-5.jpg
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\08\foto-asmi-dan-muadz-5.jpg
+Content Type: image/jpeg
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\lib\e-gallery\css\e-gallery.min.css
+Content Type: text/css
+
+Uri: https://kondangankuy.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/extensions-for-elementor-form/assets/script.js?ver=1.3
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\extensions-for-elementor-form\assets\script.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/piotnet-addons-for-elementor-pro/assets/js/minify/extension.min.js?ver=6.3.58
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\piotnet-addons-for-elementor-pro\assets\js\minify\extension.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.2.4
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/uploads/2020/11/back-atas-black-edition-768x681.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2020\11\back-atas-black-edition-768x681.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/MUARA-Adera-Lyric-Video_2.mp3
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\MUARA-Adera-Lyric-Video_2.mp3
+Content Type: audio/mpeg
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/06/cover-nama-asmi-muadz-2.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\06\cover-nama-asmi-muadz-2.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2020/11/back-bawah-black-edition-768x530.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2020\11\back-bawah-black-edition-768x530.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/06/foto-profil-wanita-asmi-muadz.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\06\foto-profil-wanita-asmi-muadz.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/06/foto-profil-pria-asmi-muadz.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\06\foto-profil-pria-asmi-muadz.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/06/the-wedding-of-v2-gap-2.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\06\the-wedding-of-v2-gap-2.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-indo-1024x123.jpg
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\buka-google-maps-logo-indo-1024x123.jpg
+Content Type: image/jpeg
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-english-1024x123.jpg
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\buka-google-maps-logo-english-1024x123.jpg
+Content Type: image/jpeg
+
+Uri: https://kondangankuy.com/wp-content/uploads/2020/11/logo-desain6.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2020\11\logo-desain6.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2020/11/logo-desain6-768x789.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2020\11\logo-desain6-768x789.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/masker.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\masker.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/cuci-tangan.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\cuci-tangan.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/jarak.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\jarak.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/jabat-tangan.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\jabat-tangan.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/suhu.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\suhu.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/handsanitizer.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\handsanitizer.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-includes/js/comment-reply.min.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/themes/astra/assets/js/minified/style.min.js?ver=3.5.0
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\themes\astra\assets\js\minified\style.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/js/app.js?ver=3.2.9
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\click-to-chat-for-whatsapp\new\inc\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/weddingpress/assets/js/wdp-swiper.min.js
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\weddingpress\assets\js\wdp-swiper.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/weddingpress/assets/js/wdp-horizontal.js
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\weddingpress\assets\js\wdp-horizontal.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/weddingpress/assets/js/exad-scripts.min.js?ver=2.6.2
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\weddingpress\assets\js\exad-scripts.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-includes/js/wp-embed.min.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js?ver=1.2.0
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\lib\e-gallery\js\e-gallery.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.2.2
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.2.4
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.2.4
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.2.2
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.2.2
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.2.4
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.2.4
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.2.2
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor-pro\assets\js\preloaded-elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/theplus_elementor_addon/assets/js/main/event-tracker/plus-event-tracker.min.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\theplus_elementor_addon\assets\js\main\event-tracker\plus-event-tracker.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.2.4
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\elementor\assets\js\preloaded-modules.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/plugins/weddingpress/assets/js/wdp.min.js?ver=2.6.2
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\plugins\weddingpress\assets\js\wdp.min.js
+Content Type: application/javascript
+
+Uri: https://kondangankuy.com/wp-content/uploads/2020/11/back-atas-black-edition-300x266.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2020\11\back-atas-black-edition-300x266.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2020/11/back-atas-black-edition-1024x908.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2020\11\back-atas-black-edition-1024x908.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2020/11/back-atas-black-edition.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2020\11\back-atas-black-edition.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/06/cover-nama-asmi-muadz-2-181x300.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\06\cover-nama-asmi-muadz-2-181x300.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/06/cover-nama-asmi-muadz-2-619x1024.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\06\cover-nama-asmi-muadz-2-619x1024.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2020/11/back-bawah-black-edition-300x207.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2020\11\back-bawah-black-edition-300x207.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2020/11/back-bawah-black-edition-1024x706.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2020\11\back-bawah-black-edition-1024x706.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2020/11/back-bawah-black-edition.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2020\11\back-bawah-black-edition.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/06/foto-profil-wanita-asmi-muadz-300x300.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\06\foto-profil-wanita-asmi-muadz-300x300.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/06/foto-profil-wanita-asmi-muadz-150x150.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\06\foto-profil-wanita-asmi-muadz-150x150.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/06/foto-profil-pria-asmi-muadz-300x300.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\06\foto-profil-pria-asmi-muadz-300x300.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/06/foto-profil-pria-asmi-muadz-150x150.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\06\foto-profil-pria-asmi-muadz-150x150.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-indo-300x36.jpg
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\buka-google-maps-logo-indo-300x36.jpg
+Content Type: image/jpeg
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-indo-768x92.jpg
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\buka-google-maps-logo-indo-768x92.jpg
+Content Type: image/jpeg
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-indo-1536x184.jpg
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\buka-google-maps-logo-indo-1536x184.jpg
+Content Type: image/jpeg
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-indo.jpg
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\buka-google-maps-logo-indo.jpg
+Content Type: image/jpeg
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-english-300x36.jpg
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\buka-google-maps-logo-english-300x36.jpg
+Content Type: image/jpeg
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-english-768x92.jpg
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\buka-google-maps-logo-english-768x92.jpg
+Content Type: image/jpeg
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-english-1536x184.jpg
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\buka-google-maps-logo-english-1536x184.jpg
+Content Type: image/jpeg
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/buka-google-maps-logo-english.jpg
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\buka-google-maps-logo-english.jpg
+Content Type: image/jpeg
+
+Uri: https://kondangankuy.com/wp-content/uploads/2020/11/logo-desain6-292x300.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2020\11\logo-desain6-292x300.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2020/11/logo-desain6-997x1024.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2020\11\logo-desain6-997x1024.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2020/11/logo-desain6-1496x1536.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2020\11\logo-desain6-1496x1536.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2020/11/logo-desain6-1995x2048.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2020\11\logo-desain6-1995x2048.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/masker-300x300.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\masker-300x300.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/masker-150x150.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\masker-150x150.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/cuci-tangan-300x300.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\cuci-tangan-300x300.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/cuci-tangan-150x150.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\cuci-tangan-150x150.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/jarak-300x300.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\jarak-300x300.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/jarak-150x150.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\jarak-150x150.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/jabat-tangan-300x300.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\jabat-tangan-300x300.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/jabat-tangan-150x150.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\jabat-tangan-150x150.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/suhu-300x300.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\suhu-300x300.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/suhu-150x150.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\suhu-150x150.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/handsanitizer-300x300.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\handsanitizer-300x300.png
+Content Type: image/png
+
+Uri: https://kondangankuy.com/wp-content/uploads/2021/01/handsanitizer-150x150.png
+File Name: C:\Downloaded Web Sites\kondangankuy.com\wp-content\uploads\2021\01\handsanitizer-150x150.png
+Content Type: image/png
+
+Uri: https://wordpress.org/
+File Name: C:\Downloaded Web Sites\kondangankuy.com\index.htm
+Content Type: text/html
+
+Uri: https://kondangankuy.com/asmimuadzwedding/
+File Name: C:\Downloaded Web Sites\kondangankuy.com\asmimuadzwedding\index-1.htm
+Content Type: text/html
+
+Uri: https://www.google.com/maps/place/Gedung+Serba+Guna+Telor+Indo,+Jl.+Abdul+Wahab+No.07,+RT.04,+Sawangan+Lama,+Kec.+Sawangan,+Kota+Depok,+Jawa+Barat+16517/data=!4m2!3m1!1s0x2e69e8dd3c6fccdb:0xaeeb18f40b200a3b?utm_source=mstt_1&entry=gps
+File Name: C:\Downloaded Web Sites\kondangankuy.com\maps\place\Gedung Serba Guna Telor Indo, Jl. Abdul Wahab No.07, RT.04, Sawangan Lama, Kec. Sawangan, Kota Depok, Jawa Barat 16517\data=!4m2!3m1!1s0x2e69e8dd3c6fccdb0xaeeb18f40b200a3b.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/kondangankuy.online/
+File Name: C:\Downloaded Web Sites\kondangankuy.com\kondangankuy.online\index.htm
+Content Type: text/html
+
+Uri: https://www.google.com/maps/embed?origin=mfe&pb=!1m4!2m1!1sGedung+Serba+Guna+Telor+Indo,+Jl.+Abdul+Wahab+No.07,+RT.04,+Sawangan+Lama,+Kec.+Sawangan,+Kota+Depok,+Jawa+Barat+16517!5e0!6i16
+File Name: C:\Downloaded Web Sites\kondangankuy.com\maps\embed.html
+Content Type: text/html
+
